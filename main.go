@@ -6,5 +6,8 @@ import (
 )
 
 func main() {
-    fmt.Println(fileWrite2.Hello("Momoko"))
+    func main() {
+		fmt.Println("Hello, World!")
+		fmt.Println( fileWrite.Hello("Momoko"))
+}
 }
